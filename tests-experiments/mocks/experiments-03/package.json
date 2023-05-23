@@ -1,0 +1,18 @@
+{
+  "name": "experiments-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node ./tests/unit/fibonacci.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sinon": "^15.1.0"
+  }
+}
